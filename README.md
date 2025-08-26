@@ -9,12 +9,10 @@
 ---
 
 ## 📈 GitHub Stats
-![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?Thaizbatistaramos=ThaizBatistaramos&show_icons=true&theme=radical)
+![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?USARNAME=ThaizBatistaramos&show_icons=true&theme=radical)
 
 ---
 
-## 🐍 Snake Game
-![Snake animation](https://github.com/THAIZBATISTARAMOS/THAIZBATISTARAMOS/blob/output/snake.svg)
 
 
 
