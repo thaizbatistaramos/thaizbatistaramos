@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Thaiz Ramos Batista!
 
-<!--
-**thaizbatistaramos/thaizbatistaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Em transição de carreira da área financeira para a programação.  
+🎓 Estudando **Análise e Desenvolvimento de Sistemas**.  
+📌 Habilidades: Java, JavaScript e Python.  
+🌍 Falo inglês e estou sempre aprendendo novas tecnologias.  
+🚀 Interesses: desenvolvimento backend, frontend e projetos open source.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?Thaizbatistaramos=ThaizBatistaramos&show_icons=true&theme=radical)
+
+---
+
+## 🐍 Snake Game
+![Snake animation](https://github.com/THAIZBATISTARAMOS/THAIZBATISTARAMOS/blob/output/snake.svg)
+
+
+
+
