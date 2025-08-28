@@ -3,8 +3,8 @@
 💻 Em transição de carreira da área financeira para a programação.  
 🎓 Estudando **Análise e Desenvolvimento de Sistemas**.  
 📌 Habilidades: Java, JavaScript e Python.  
-🌍 Falo inglês e estou sempre aprendendo novas tecnologias.  
-🚀 Interesses: desenvolvimento backend, frontend e projetos open source.  
+🌍 Falo inglês.  
+🚀 Interesses: desenvolvedor  backend, frontend e projetos open source.  
 
 ---
 
