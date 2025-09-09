@@ -6,7 +6,6 @@
 🌍 Falo inglês.  
 🚀 Interesses: desenvolvedor  backend, frontend e projetos open source.  
 
----
 
 ## 📈 GitHub Stats
 ![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?USARNAME=ThaizBatistaramos&show_icons=true&theme=radical)
