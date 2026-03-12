@@ -8,7 +8,7 @@
 
 
 ## 📈 GitHub Stats
-![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?USARNAME=ThaizBatistaramos&show_icons=true&theme=radical)
+![Thaiz GitHub stats](https://github-readme-stats.vercel.app/api?Thaiz=ThaizBatistaramos&show_icons=true&theme=radical)
 
 ---
 
